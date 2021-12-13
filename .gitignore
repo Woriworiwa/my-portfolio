@@ -46,3 +46,4 @@ testem.log
 Thumbs.db
 .firebase/hosting.ZGlzdA.cache
 .firebase/hosting.ZGlzdFxteS1wb3J0Zm9saW8.cache
+yarn.lock
